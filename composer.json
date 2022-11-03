@@ -1,0 +1,17 @@
+{
+    "name": "fliw/ai-sentiment",
+    "description": "AI for predict human face sentiment",
+    "type": "project",
+    "require": {
+        "clarifai/clarifai-php-grpc": "dev-master",
+        "grpc/grpc": "1.42"
+    },
+    "license": "mit",
+    "authors": [
+        {
+            "name": "fliw",
+            "email": "fliw@digitalkode.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
